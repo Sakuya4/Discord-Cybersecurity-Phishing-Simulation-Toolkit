@@ -1,4 +1,4 @@
-# Discord-Cybersecurity-Phishing-Simulation-Toolkit
+v# Discord-Cybersecurity-Phishing-Simulation-Toolkit
 If the team is using Discord for work, the cybersecurity team can conduct security audits based on the toolkit in this repo.
 
 
@@ -97,6 +97,12 @@ python main.py
 ### 貢獻
 
 感謝您對本專案感興趣，希望可以一起讓專案變得更好。
+
+///
+
+👾首先，想要宣傳一下我們團隊[輔仁大學資訊系統應用暨人機互動開發團隊](https://github.com/ISHCIL)，是由學生自發組成的團體，如果您對開發網頁應用、人機互動設計或者其他資訊相關領域有興趣歡迎您加入我們。
+
+///
 
 **本專案僅用於資安教育、研究以及在獲得明確授權下的安全測試用途。所有貢獻都應服務於此目的，嚴禁將其用於任何非法或惡意活動。**
 
